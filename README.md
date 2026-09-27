@@ -92,7 +92,7 @@ Também estou ampliando meus conhecimentos em Redes e Cybersegurança através d
 
 ## 📫 Contato
 
-📧 Email: [jeaneugeniodev2024@gmail.com](mailto:jeaneugeniodev2024@gmail.com)
+📧 Email: [jeaneugeniodev2025@gmail.com](mailto:jeaneugeniodev2024@gmail.com)
 
 🔗 LinkedIn:
 linkedin.com/in/jean-eugenio-1a99643a2
