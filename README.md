@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou Jean Eugenio
 
-💻 Desenvolvedor Full Stack Java
-🎓 Estudante de Engenharia da Computação
-🚀 Apaixonado por desenvolvimento web, APIs REST e tecnologia
+💻 Estudante de Engenharia da Computação | Desenvolvimento Full Stack Java  
+🚀 Interessado em desenvolvimento de software, APIs REST, bancos de dados e arquitetura de aplicações
 
 ---
 
@@ -10,9 +9,9 @@
 
 Atualmente curso Engenharia da Computação e possuo formação em Desenvolvimento Full Stack Java pela EBAC.
 
-Tenho experiência prática no desenvolvimento de aplicações web utilizando Java, Spring Boot, React, JavaScript e bancos de dados relacionais como MySQL e PostgreSQL.
+Tenho experiência prática no desenvolvimento de aplicações utilizando Java, Spring Boot, APIs REST, JPA/Hibernate, JDBC, React e TypeScript, além de bancos de dados relacionais e NoSQL.
 
-Também estou ampliando meus conhecimentos em Redes e Cybersegurança através da Cisco Networking Academy em parceria com o Senac GO.
+Também estou ampliando meus conhecimentos em Redes e Cibersegurança por meio da Cisco Networking Academy em parceria com o Senac GO.
 
 ---
 
@@ -22,22 +21,26 @@ Também estou ampliando meus conhecimentos em Redes e Cybersegurança através d
 
 * Java
 * Spring Boot
+* Spring Cloud
 * JPA / Hibernate
 * JDBC
-* APIs RESTful
+* APIs REST
+* OpenFeign
 * Maven
 
 ### Front-end
 
 * React
+* TypeScript
 * JavaScript
 * HTML5
 * CSS3
 
 ### Banco de Dados
 
-* MySQL
 * PostgreSQL
+* MongoDB
+* MySQL
 
 ### Ferramentas
 
@@ -46,56 +49,64 @@ Também estou ampliando meus conhecimentos em Redes e Cybersegurança através d
 * GitHub Actions
 * Postman
 
-### Redes e Cybersegurança
+### Redes e Cibersegurança
 
 * Fundamentos de Redes
 * TCP/IP
 * Segurança da Informação
 * Diagnóstico de conectividade
+* Fundamentos de Cibersegurança
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🔹 Sistema de Cadastro de Usuários (API REST)
+### 🔹 Sistema de Microserviços para Gerenciamento de Vendas
 
-* API RESTful com Java e Spring Boot
-* CRUD completo
-* Autenticação de usuários
-* Persistência com MySQL/PostgreSQL
+* Arquitetura de microserviços
+* Java e Spring Boot
+* APIs REST
+* MongoDB
+* Spring Cloud Config
+* Comunicação entre serviços com OpenFeign e RestTemplate
 
-### 🔹 Aplicação Web Full Stack
+### 🔹 Sistema de Gerenciamento de Vendas com JPA e Hibernate
 
-* Front-end em React
-* Back-end com Spring Boot
-* Integração entre APIs e banco de dados
-* Componentes reutilizáveis
-
-### 🔹 Projetos Full Stack e APIs
-
-* Aplicações desenvolvidas durante formação Full Stack Java
+* Java
+* JPA / Hibernate
+* PostgreSQL
 * Arquitetura em camadas
-* Consumo de APIs
-* Versionamento com Git/GitHub
+* Padrão DAO e Service
+* Testes automatizados com JUnit
+
+### 🔹 Efood — Aplicação Web
+
+* Front-end desenvolvido com React e TypeScript
+* Gerenciamento de estado com Redux Toolkit
+* Consumo de APIs com RTK Query
+* Componentização
+* Formulários e validação
+* Interface web responsiva
 
 ---
 
 ## 📚 Atualmente estudando
 
+* Desenvolvimento de software
 * Redes de Computadores
-* Cybersegurança
-* Boas práticas de desenvolvimento
+* Cibersegurança
 * Arquitetura de software
-* DevOps básico
+* Boas práticas de desenvolvimento
+* DevOps
 
 ---
 
 ## 📫 Contato
 
-📧 Email: [jeaneugeniodev2025@gmail.com](mailto:jeaneugeniodev2024@gmail.com)
+📧 Email: [jeaneugeniodev2025@gmail.com](mailto:jeaneugeniodev2025@gmail.com)
 
-🔗 LinkedIn:
-linkedin.com/in/jean-eugenio-1a99643a2
+🔗 LinkedIn:  
+[linkedin.com/in/jean-eugenio-1a99643a2](https://linkedin.com/in/jean-eugenio-1a99643a2)
 
-🔗 GitHub:
-github.com/Jean-Eugenio
+🔗 GitHub:  
+[github.com/Jean-Eugenio](https://github.com/Jean-Eugenio)
