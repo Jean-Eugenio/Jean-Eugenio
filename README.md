@@ -106,7 +106,7 @@ Também estou ampliando meus conhecimentos em Redes e Cibersegurança por meio d
 📧 Email: [jeaneugeniodev2025@gmail.com](mailto:jeaneugeniodev2025@gmail.com)
 
 🔗 LinkedIn:  
-[linkedin.com/in/jean-eugenio-1a99643a2](https://linkedin.com/in/jean-eugenio-1a99643a2)
+[linkedin.com/in/jean-eugenio](https://www.linkedin.com/in/jean-eugenio/)
 
 🔗 GitHub:  
 [github.com/Jean-Eugenio](https://github.com/Jean-Eugenio)
